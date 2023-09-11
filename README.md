@@ -8,7 +8,7 @@ Bringing people closer, one message at a time.
 Run Locally
 Clone the project
 
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/Shashank-mav/Blip
 Go to the project directory
 
   cd mern-chat-app
