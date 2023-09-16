@@ -2,7 +2,7 @@
 Bringing people closer, one message at a time.
 
 
-** DEPLOYMENT IN PROCESS **
+Live:- https://blip-bml4.onrender.com/welcome
 
 
 Run Locally
